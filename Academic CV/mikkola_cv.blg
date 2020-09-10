@@ -1,18 +1,18 @@
 [0] Config.pm:312> INFO - This is Biber 2.15
 [0] Config.pm:315> INFO - Logfile is 'mikkola_cv.blg'
-[93] biber-darwin:330> INFO - === Thu Sep 10, 2020, 14:04:51
-[110] Biber.pm:415> INFO - Reading 'mikkola_cv.bcf'
-[234] Biber.pm:949> INFO - Using all citekeys in bib section 0
-[249] Biber.pm:4334> INFO - Processing section 0
-[260] Biber.pm:4523> INFO - Looking for bibtex format file 'own-bib.bib' for section 0
-[261] bibtex.pm:1682> INFO - LaTeX decoding ...
-[271] bibtex.pm:1494> INFO - Found BibTeX data source 'own-bib.bib'
-[291] Utils.pm:395> WARN - month field 'may' in entry '2020MNRAS.495.3295M' is not an integer - this will probably not sort properly.
-[298] Utils.pm:395> WARN - year field 'in prep' in entry 'inprep' is not an integer - this will probably not sort properly.
-[308] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[308] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[309] Biber.pm:4162> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
-[309] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
-[312] bbl.pm:651> INFO - Writing 'mikkola_cv.bbl' with encoding 'UTF-8'
-[314] bbl.pm:754> INFO - Output to mikkola_cv.bbl
-[314] Biber.pm:128> INFO - WARNINGS: 2
+[87] biber-darwin:330> INFO - === Thu Sep 10, 2020, 14:12:27
+[103] Biber.pm:415> INFO - Reading 'mikkola_cv.bcf'
+[245] Biber.pm:949> INFO - Using all citekeys in bib section 0
+[260] Biber.pm:4334> INFO - Processing section 0
+[271] Biber.pm:4523> INFO - Looking for bibtex format file 'own-bib.bib' for section 0
+[272] bibtex.pm:1682> INFO - LaTeX decoding ...
+[277] bibtex.pm:1494> INFO - Found BibTeX data source 'own-bib.bib'
+[297] Utils.pm:395> WARN - month field 'may' in entry '2020MNRAS.495.3295M' is not an integer - this will probably not sort properly.
+[305] Utils.pm:395> WARN - year field 'in prep' in entry 'inprep' is not an integer - this will probably not sort properly.
+[317] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[317] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[317] Biber.pm:4162> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
+[317] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[320] bbl.pm:651> INFO - Writing 'mikkola_cv.bbl' with encoding 'UTF-8'
+[322] bbl.pm:754> INFO - Output to mikkola_cv.bbl
+[323] Biber.pm:128> INFO - WARNINGS: 2
