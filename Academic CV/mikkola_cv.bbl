@@ -48,15 +48,19 @@
       }
       \strng{namehash}{fb5996d596091c5b26728cf50e53f30e}
       \strng{fullhash}{77d56c2eaee84f9a2504cb93dae9ae08}
-      \strng{bibnamehash}{fb5996d596091c5b26728cf50e53f30e}
-      \strng{authorbibnamehash}{fb5996d596091c5b26728cf50e53f30e}
+      \strng{bibnamehash}{77d56c2eaee84f9a2504cb93dae9ae08}
+      \strng{authorbibnamehash}{77d56c2eaee84f9a2504cb93dae9ae08}
       \strng{authornamehash}{fb5996d596091c5b26728cf50e53f30e}
       \strng{authorfullhash}{77d56c2eaee84f9a2504cb93dae9ae08}
+      \field{extraname}{1}
       \field{sortinit}{i}
       \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Velocity distribution of Gaia stars without radial velocities}}
+      \field{title}{{\textit{Velocity distribution of Gaia stars without radial velocities}}}
       \field{year}{in prep}
       \true{nocite}
       \keyw{methods: numerical,Galaxy: disc,Galaxy: formation,Galaxy: kinematics and dynamics,Astrophysics - Astrophysics of Galaxies}
@@ -82,14 +86,18 @@
            giveni={D\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{9fe0e6d47d3a62dd7135e0a530931ed0}
+      \strng{namehash}{fb5996d596091c5b26728cf50e53f30e}
       \strng{fullhash}{9fe0e6d47d3a62dd7135e0a530931ed0}
       \strng{bibnamehash}{9fe0e6d47d3a62dd7135e0a530931ed0}
       \strng{authorbibnamehash}{9fe0e6d47d3a62dd7135e0a530931ed0}
-      \strng{authornamehash}{9fe0e6d47d3a62dd7135e0a530931ed0}
+      \strng{authornamehash}{fb5996d596091c5b26728cf50e53f30e}
       \strng{authorfullhash}{9fe0e6d47d3a62dd7135e0a530931ed0}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eprintclass}{astro-ph.GA}
@@ -97,7 +105,7 @@
       \field{journaltitle}{\mnras}
       \field{month}{5}
       \field{number}{3}
-      \field{title}{{Radial migration and vertical action in N-body simulations}}
+      \field{title}{{\textit{Radial migration and vertical action in N-body simulations}}}
       \field{volume}{495}
       \field{year}{2020}
       \true{nocite}
