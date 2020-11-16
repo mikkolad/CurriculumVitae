@@ -1,18 +1,18 @@
 [0] Config.pm:312> INFO - This is Biber 2.15
 [0] Config.pm:315> INFO - Logfile is 'mikkola_cv.blg'
-[84] biber-darwin:330> INFO - === Mon Oct  5, 2020, 11:47:19
-[101] Biber.pm:415> INFO - Reading 'mikkola_cv.bcf'
-[230] Biber.pm:949> INFO - Using all citekeys in bib section 0
-[245] Biber.pm:4334> INFO - Processing section 0
-[256] Biber.pm:4523> INFO - Looking for bibtex format file 'own-bib.bib' for section 0
-[257] bibtex.pm:1682> INFO - LaTeX decoding ...
-[262] bibtex.pm:1494> INFO - Found BibTeX data source 'own-bib.bib'
-[281] Utils.pm:395> WARN - month field 'may' in entry '2020MNRAS.495.3295M' is not an integer - this will probably not sort properly.
-[288] Utils.pm:395> WARN - year field 'in prep' in entry 'inprep' is not an integer - this will probably not sort properly.
-[302] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[302] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[302] Biber.pm:4162> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
-[302] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
-[306] bbl.pm:651> INFO - Writing 'mikkola_cv.bbl' with encoding 'UTF-8'
-[308] bbl.pm:754> INFO - Output to mikkola_cv.bbl
-[308] Biber.pm:128> INFO - WARNINGS: 2
+[99] biber-darwin:330> INFO - === Mon Nov 16, 2020, 17:25:00
+[116] Biber.pm:415> INFO - Reading 'mikkola_cv.bcf'
+[240] Biber.pm:949> INFO - Using all citekeys in bib section 0
+[254] Biber.pm:4334> INFO - Processing section 0
+[264] Biber.pm:4523> INFO - Looking for bibtex format file 'own-bib.bib' for section 0
+[266] bibtex.pm:1682> INFO - LaTeX decoding ...
+[277] bibtex.pm:1494> INFO - Found BibTeX data source 'own-bib.bib'
+[302] Utils.pm:395> WARN - year field 'in prep' in entry 'inprep' is not an integer - this will probably not sort properly.
+[308] Utils.pm:395> WARN - month field 'may' in entry '2020MNRAS.495.3295M' is not an integer - this will probably not sort properly.
+[320] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[321] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[321] Biber.pm:4162> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
+[321] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[325] bbl.pm:651> INFO - Writing 'mikkola_cv.bbl' with encoding 'UTF-8'
+[327] bbl.pm:754> INFO - Output to mikkola_cv.bbl
+[327] Biber.pm:128> INFO - WARNINGS: 2
