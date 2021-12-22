@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.9)  9 JUL 2021 14:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.9)  22 DEC 2021 12:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1336,22 +1336,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--10
 ) (./academic_history.tex
 (/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd
 )) (./academic_history.tex) (./academic_history.tex) (./academic_history.tex
-Overfull \hbox (60.11047pt too wide) in paragraph at lines 10--18
+Overfull \hbox (57.64673pt too wide) in paragraph at lines 10--18
 [][] []| 
  []
 
 
-Overfull \hbox (60.11047pt too wide) in paragraph at lines 25--32
+Overfull \hbox (57.64673pt too wide) in paragraph at lines 25--32
 [][] []| 
  []
 
 
-Overfull \hbox (88.86345pt too wide) in paragraph at lines 37--39
+Overfull \hbox (86.3997pt too wide) in paragraph at lines 37--39
 [][]| 
  []
 
 
-Overfull \hbox (60.11047pt too wide) in paragraph at lines 46--53
+Overfull \hbox (57.64673pt too wide) in paragraph at lines 46--53
 [][] []| 
  []
 
@@ -1441,7 +1441,7 @@ ontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2020/texmf-dist/font
 s/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/local/texlive/2020/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on mikkola_cv.pdf (3 pages, 204416 bytes).
+Output written on mikkola_cv.pdf (3 pages, 204664 bytes).
 PDF statistics:
  153 PDF objects out of 1000 (max. 8388607)
  94 compressed objects within 1 object stream
