@@ -53,15 +53,15 @@
       \strng{authornamehash}{fb5996d596091c5b26728cf50e53f30e}
       \strng{authorfullhash}{77d56c2eaee84f9a2504cb93dae9ae08}
       \field{extraname}{1}
-      \field{sortinit}{i}
-      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{sortinit}{s}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{\textit{Velocity distribution of white dwarfs in Gaia EDR3}}}
-      \field{year}{in prep}
+      \field{year}{submitted}
       \true{nocite}
       \keyw{methods: numerical,Galaxy: disc,Galaxy: formation,Galaxy: kinematics and dynamics,Astrophysics - Astrophysics of Galaxies}
     \endentry

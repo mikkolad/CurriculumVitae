@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.9)  22 DEC 2021 12:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.9)  23 DEC 2021 15:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1418,7 +1418,7 @@ Package logreq Info: Writing requests to 'mikkola_cv.run.xml'.
 Here is how much of TeX's memory you used:
  32799 strings out of 480876
  658953 string characters out of 5907598
- 1441799 words of memory out of 5000000
+ 1440793 words of memory out of 5000000
  47719 multiletter control sequences out of 15000+600000
  795395 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1441,7 +1441,7 @@ ontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2020/texmf-dist/font
 s/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/local/texlive/2020/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on mikkola_cv.pdf (3 pages, 204664 bytes).
+Output written on mikkola_cv.pdf (3 pages, 204315 bytes).
 PDF statistics:
  153 PDF objects out of 1000 (max. 8388607)
  94 compressed objects within 1 object stream
