@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.9)  23 DEC 2021 15:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.9)  4 JAN 2022 11:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1402,8 +1402,7 @@ nts.tex) (./grants.tex) (./grants.tex) (./grants.tex)
 (./teaching.tex) (./teaching.tex) (./teaching.tex) (./teaching.tex)
 (./extracurricular.tex) (./extracurricular.tex) (./extracurricular.tex)
 (./extracurricular.tex [2]) (./skills.tex) (./skills.tex) (./skills.tex)
-(./skills.tex) (./referee.tex) (./referee.tex) (./referee.tex) (./referee.tex)
-[3]
+(./skills.tex) [3]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
  (./mikkola_cv.aux)
@@ -1416,10 +1415,10 @@ Package logreq Info: Writing requests to 'mikkola_cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32799 strings out of 480876
- 658953 string characters out of 5907598
- 1440793 words of memory out of 5000000
- 47719 multiletter control sequences out of 15000+600000
+ 32791 strings out of 480876
+ 658912 string characters out of 5907598
+ 1441788 words of memory out of 5000000
+ 47720 multiletter control sequences out of 15000+600000
  795395 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,107p,1155b,4930s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1441,10 +1440,10 @@ ontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2020/texmf-dist/font
 s/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/local/texlive/2020/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on mikkola_cv.pdf (3 pages, 204315 bytes).
+Output written on mikkola_cv.pdf (3 pages, 200470 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
+ 137 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
  15 named destinations out of 1000 (max. 500000)
  115 words of extra memory for PDF output out of 10000 (max. 10000000)
 

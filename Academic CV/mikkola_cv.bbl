@@ -19,7 +19,47 @@
 
 \refsection{0}
   \datalist[entry]{ymdnt/global//global/global}
-    \entry{inprep}{article}{}
+    \entry{paper3}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8caa1a51e6752b480e97798c1dccdadf}{%
+           family={{Mikkola}},
+           familyi={M\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd8d640a6308d4389e4b0ea22efb6cfd}{%
+           family={{McMillan}},
+           familyi={M\bibinitperiod},
+           given={Paul\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ad0fa634758db99fbb96453a8989386}{%
+           family={{Hobbs}},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fb5996d596091c5b26728cf50e53f30e}
+      \strng{fullhash}{9fe0e6d47d3a62dd7135e0a530931ed0}
+      \strng{bibnamehash}{9fe0e6d47d3a62dd7135e0a530931ed0}
+      \strng{authorbibnamehash}{9fe0e6d47d3a62dd7135e0a530931ed0}
+      \strng{authornamehash}{fb5996d596091c5b26728cf50e53f30e}
+      \strng{authorfullhash}{9fe0e6d47d3a62dd7135e0a530931ed0}
+      \field{extraname}{1}
+      \field{sortinit}{i}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{\textit{The detailed velocity distribution of the solar neighbourhood in Gaia EDR3}}}
+      \field{year}{in prep}
+      \true{nocite}
+      \keyw{methods: numerical,Galaxy: disc,Galaxy: formation,Galaxy: kinematics and dynamics,Astrophysics - Astrophysics of Galaxies}
+    \endentry
+    \entry{paper2}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=8caa1a51e6752b480e97798c1dccdadf}{%
            family={{Mikkola}},
@@ -52,7 +92,7 @@
       \strng{authorbibnamehash}{77d56c2eaee84f9a2504cb93dae9ae08}
       \strng{authornamehash}{fb5996d596091c5b26728cf50e53f30e}
       \strng{authorfullhash}{77d56c2eaee84f9a2504cb93dae9ae08}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{s}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{extradatescope}{labelyear}
@@ -60,12 +100,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{\mnras}
       \field{title}{{\textit{Velocity distribution of white dwarfs in Gaia EDR3}}}
       \field{year}{submitted}
       \true{nocite}
       \keyw{methods: numerical,Galaxy: disc,Galaxy: formation,Galaxy: kinematics and dynamics,Astrophysics - Astrophysics of Galaxies}
     \endentry
-    \entry{2020MNRAS.495.3295M}{article}{}
+    \entry{paper1}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=8caa1a51e6752b480e97798c1dccdadf}{%
            family={{Mikkola}},
@@ -92,7 +133,7 @@
       \strng{authorbibnamehash}{9fe0e6d47d3a62dd7135e0a530931ed0}
       \strng{authornamehash}{fb5996d596091c5b26728cf50e53f30e}
       \strng{authorfullhash}{9fe0e6d47d3a62dd7135e0a530931ed0}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradatescope}{labelyear}
